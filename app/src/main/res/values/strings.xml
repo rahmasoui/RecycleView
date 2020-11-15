@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RecycleView</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+    <string name="textview1">TextView</string>
+
+    <string-array name="nomEcoles">
+        <item>ENSI</item>
+        <item>ENIS</item>
+        <item>ENIT</item>
+        <item>ENETCom</item>
+        <item>ENISO</item>
+        <item>SUPCOM</item>
+    </string-array>
+</resources>
